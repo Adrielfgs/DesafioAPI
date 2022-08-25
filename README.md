@@ -1,2 +1,2 @@
-# DesafioAPI
-REST-API Java
+# DesafioJava
+REST-API / Spring bot / Mysql
